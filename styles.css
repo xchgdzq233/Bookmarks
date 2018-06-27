@@ -1,0 +1,17 @@
+body {
+  font-family: Palatino;
+}
+
+h1 {}
+
+h2 {
+  text-decoration: underline;
+}
+
+ul {
+	padding-left: 20px;
+}
+
+li {
+	margin-bottom: 10px;
+}
