@@ -1,10 +1,39 @@
 body {
   font-family: Palatino;
+  font-size: 1em;
   margin-left: 20px;
 }
 
+div {
+  display: inline-block;
+	position: relative;
+}
+
+.div_block {
+	width:100%;
+}
+
+.div_col {
+	float:left;
+	width:33%;
+}
+
+h1 {
+  font-size: 200%;
+}
+
 h2 {
+  font-size: 175%;
+  font-style: italic;
+}
+
+h3 {
+  font-size: 150%;
   text-decoration: underline;
+}
+
+h4 {
+  font-size: 125%;
 }
 
 ul {
