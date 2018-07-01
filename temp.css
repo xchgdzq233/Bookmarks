@@ -1,0 +1,11 @@
+body {
+  position: relative;
+}
+
+div {
+  border: dotted 1px red;
+}
+
+.navbar {
+  position: fixed;
+}
